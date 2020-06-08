@@ -8,4 +8,7 @@ component:
 test: ./runtest.sh
 require:
 - openssl
+recommend:
+- tree
+- forest
 duration: 30m
